@@ -3,8 +3,6 @@
 // Copyright (c) 2018 Mendix
 // Licensed under MIT (https://github.com/mendix/Atlas-UI-Framework/blob/master/LICENSE)
 //
-@import "../custom/custom-variables";
-
 @import "variables";
 
 // Base
@@ -41,29 +39,6 @@
 @import "components/typography";
 @import "components/layoutgrid";
 @import "components/progress";
-
-// Building Blocks
-@import "buildingblocks/alignment-block";
-@import "buildingblocks/breadcrumb";
-@import "buildingblocks/card";
-@import "buildingblocks/chat";
-@import "buildingblocks/controlgroup";
-@import "buildingblocks/pageblocks";
-@import "buildingblocks/pageheader";
-@import "buildingblocks/heroheader";
-@import "buildingblocks/formblock";
-@import "buildingblocks/list";
-@import "buildingblocks/master-detail";
-@import "buildingblocks/userprofile";
-@import "buildingblocks/wizard";
-@import "buildingblocks/timeline";
-
-//layouts
-@import "layouts/layout-atlas";
-@import "layouts/layout-atlas-phone";
-@import "layouts/layout-atlas-responsive";
-@import "layouts/layout-atlas-tablet";
-@import "layouts/layout-atlas-device-wrapper";
 
 //customwidgets
 @import "customwidgets/progress-bar-theme";

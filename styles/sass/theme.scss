@@ -1,0 +1,12 @@
+// Variable layers
+@import "_custom/custom_variables";
+@import "mendix_atlas_core/variables";
+
+// Mendix core styling
+@import "mendix_atlas_core/output";
+
+// Resources package styling
+@import "_ui_resources/output";
+
+// Project specific styling
+@import "_custom/output";
